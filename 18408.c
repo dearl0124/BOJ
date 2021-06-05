@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
     int x, count1 = 0, count2 = 0;
