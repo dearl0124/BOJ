@@ -14,7 +14,7 @@ int cmp(int const* a, int const* b)
 
     if (num1->score > num2->score)
         return -1;
-    else if (num1->score, num2->score)
+    else if (num1->score < num2->score)
         return 1;
     else
         return 0;
